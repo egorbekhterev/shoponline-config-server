@@ -11,7 +11,7 @@ spring:
 #        git:
 #          uri: https://github.com/egorbekhterev/shoponline-config
         native:
-          search-locations: classpath:/config
+          search-+locations: classpath:/config
 
 server:
   port: 8071
